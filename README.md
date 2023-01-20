@@ -121,7 +121,7 @@ Pada blok **BK** klik menu **Konsultasi.**
 > dengan memilih Status *Ticketing* ke Unit yang bersangkutan mengenai
 > permasalahan mahasiswa ini.
 
-# Approve 
+# Approvee 
 
 ## Approve Perwalian
 
